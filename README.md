@@ -1,28 +1,28 @@
-# Hi there, I'm Suraphel Sisay 👋
+# ሰላም! እኔ ሱራፌል ሲሳይ ነኝ 👋
 
-**Full-Stack Web Developer** passionate about building clean, scalable, and maintainable web applications — from database design to polished user interfaces.
+**ሙሉ-ስታክ የዌብ አልሚ (Full-Stack Web Developer)** — ከዳታቤዝ ዲዛይን እስከ ዘመናዊ የተጠቃሚ በይነገጽ (UI) ጥራት ያላቸው፣ ሊያድጉ የሚችሉ እና የሚጠበቁ የዌብ መተግበሪያዎችን በመስራት ላይ የተሰማራሁ።
 
-## 🛠️ Tech Stack
+## 🛠️ የቴክኖሎጂ ስታክ (Tech Stack)
 
-| Category   | Technologies                          |
-|------------|---------------------------------------|
-| Languages  | PHP, JavaScript, HTML, CSS            |
-| Frameworks | Laravel, React, Vite, Express, Bootstrap |
-| Databases  | MySQL                                 |
-| Tools      | Git, GitHub, Composer, npm            |
+| ዘርፍ | ቴክኖሎጂዎች |
+|------|-----------|
+| ቋንቋዎች (Languages) | PHP, JavaScript, HTML, CSS |
+| ፍሬምወርኮች (Frameworks) | Laravel, React, Vite, Express, Bootstrap |
+| ዳታቤዝ (Databases) | MySQL |
+| መሳሪያዎች (Tools) | Git, GitHub, Composer, npm |
 
-## 🚀 What I'm Working On
+## 🚀 የምሰራባቸው ስራዎች
 
-- Full-stack management systems with Laravel + MySQL (school, clinic, and production agency ERPs)
-- React + Vite frontend applications
-- Clean, maintainable code and REST API design
+- በ Laravel + MySQL የተገነቡ አስተዳደራዊ ሲስተሞች (የትምህርት ቤት፣ ክሊኒክ እና የምርት ኤጀንሲ ERP)
+- በ React + Vite የተሰሩ የፊት-ለፊት (Frontend) መተግበሪያዎች
+- ንጹህ፣ ተጠባቂ ኮድ እና የ REST API ዲዛይን
 
-## 📊 GitHub Stats
+## 📊 የ GitHub ስታቲስቲክስ
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=suraphelsisay&show_icons=true&theme=radical)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suraphelsisay&layout=compact&theme=radical)
 
-## 📫 Get in Touch
+## 📫 አግኙኝ
 
 - GitHub: [@suraphelsisay](https://github.com/suraphelsisay)
