@@ -1,28 +1,57 @@
-# ሰላም! እኔ ሱራፌል ሲሳይ ነኝ 👋
+# Suraphel Sisay · ሱራፌል ሲሳይ
 
-**ሙሉ-ስታክ የዌብ አልሚ (Full-Stack Web Developer)** — ከዳታቤዝ ዲዛይን እስከ ዘመናዊ የተጠቃሚ በይነገጽ (UI) ጥራት ያላቸው፣ ሊያድጉ የሚችሉ እና የሚጠበቁ የዌብ መተግበሪያዎችን በመስራት ላይ የተሰማራሁ።
+### Full-Stack Web Developer · React, Laravel & Strapi
 
-## 🛠️ የቴክኖሎጂ ስታክ (Tech Stack)
+ሰላም! የዌብ መተግበሪያዎችን፣ የይዘት ማስተዳደሪያዎችንና የአስተዳደር ሲስተሞችን እገነባለሁ።
 
-| ዘርፍ | ቴክኖሎጂዎች |
-|------|-----------|
-| ቋንቋዎች (Languages) | PHP, JavaScript, HTML, CSS |
-| ፍሬምወርኮች (Frameworks) | Laravel, React, Vite, Express, Bootstrap |
-| ዳታቤዝ (Databases) | MySQL |
-| መሳሪያዎች (Tools) | Git, GitHub, Composer, npm |
+I build web applications with React and Laravel, and CMS-powered websites with Strapi. My work includes frontend interfaces, MySQL databases, REST APIs, and Amharic-language experiences.
 
-## 🚀 የምሰራባቸው ስራዎች
+## Current work
 
-- በ Laravel + MySQL የተገነቡ አስተዳደራዊ ሲስተሞች (የትምህርት ቤት፣ ክሊኒክ እና የምርት ኤጀንሲ ERP)
-- በ React + Vite የተሰሩ የፊት-ለፊት (Frontend) መተግበሪያዎች
-- ንጹህ፣ ተጠባቂ ኮድ እና የ REST API ዲዛይን
+### Felege Tibeb
 
-## 📊 የ GitHub ስታቲስቲክስ
+A website with CMS-managed text, photos, videos, and production packages.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=suraphelsisay&show_icons=true&theme=radical)
+- **Frontend:** React
+- **Content management:** Strapi
+- **Database:** MySQL with Unicode support
+- **Deployment:** cPanel
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suraphelsisay&layout=compact&theme=radical)
+[Visit Felege Tibeb](https://felegetibeb.com)
 
-## 📫 አግኙኝ
+## Project areas
 
-- GitHub: [@suraphelsisay](https://github.com/suraphelsisay)
+| Area | What I work on |
+| --- | --- |
+| Web applications | React interfaces and API integration |
+| Content management | Strapi content types and publishing workflows |
+| Deployment | Release preparation and cPanel hosting |
+
+## Selected public repositories
+
+| Category | Project | Focus |
+| --- | --- | --- |
+| React interfaces | [Amazon Clone](https://github.com/suraphelsisay/Amazon-Clone) | Responsive e-commerce homepage built with React and Vite |
+| Frontend interfaces | [Netflix Clone](https://github.com/suraphelsisay/Netflix-clone) | Streaming-platform landing page with HTML, CSS, and JavaScript |
+| Laravel applications | [EBOOK](https://github.com/suraphelsisay/EBOOK) | Digital book catalog and reading interface |
+
+### Learning & reference repositories
+
+The following repositories are forks, kept separately from my original projects:
+
+- [BMVEI Clinic Management System](https://github.com/suraphelsisay/BMVEI-clinic-management-system-)
+- [MVEI Clinic](https://github.com/suraphelsisay/MVEI-clinic-)
+
+[EBOOK-2](https://github.com/suraphelsisay/EBOOK-2) is a separate version of the book-platform project.
+
+## Tools
+
+| Area | Technologies |
+| --- | --- |
+| Languages | PHP, JavaScript, HTML, CSS |
+| Frontend | React, Vite, Bootstrap |
+| Backend & CMS | Laravel, Express, Strapi |
+| Database | MySQL |
+| Development & deployment | Git, GitHub Actions, Composer, npm, cPanel |
+
+[Explore my repositories](https://github.com/suraphelsisay?tab=repositories)
